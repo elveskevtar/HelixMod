@@ -1,0 +1,9 @@
+item.adenine.name=Adenine
+item.guanine.name=Guanine
+item.cytosine.name=Cytosine
+item.thymine.name=Thymine
+tile.nucleotideSynthesizer.name=Nucleotide Synthesizer
+achievement.synAchievement=Nucleotide Synthesizer
+achievement.synAchievement.desc=Acquire a mystical machine of awesomeness
+achievement.nucleotideGet=Synthesize A Nucleotide
+achievement.nucleotideGet.desc=Use a Nucleotide Synthesizer to make a nucleotide
